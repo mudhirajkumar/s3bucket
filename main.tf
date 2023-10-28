@@ -10,4 +10,3 @@ resource "aws_s3_instance" "terraform" {
         Environment = "dev"
 }
 }
-~      
